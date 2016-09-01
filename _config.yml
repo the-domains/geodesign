@@ -1,3 +1,4 @@
+layout_spectrum: 0.670856656273827
 typography_spectrum: 0.6754294913262129
 color:
   brandStrength: 0.9177108423318714
@@ -5,16 +6,9 @@ color:
   saturation: 0.9665039898827672
   rhythmicContrast: 0.9788702572695911
   brandColors:
-    - '#E8E595'
-    - '#D0A825'
-    - '#40627C'
-    - '#26393D'
-    - '#FFFAE4'
-layout_spectrum: 0.670856656273827
-author:
-  name: Miguel Kirjon
-  email: kirjon@gmail.com
-  url: geodesignasia.com
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: GeoDesign
-title: Designs for Exceptional Living
-description: Designs for Exceptional Living
