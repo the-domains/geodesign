@@ -1,11 +1,7 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.royvincent.org'
-  name: Royvincent
-  favicon: null
-  domain: www.royvincent.org
+datePublished: '2016-09-03T03:45:31.920Z'
+sourcePath: _posts/2016-09-03-listening-to-the-silences.md
+isBasedOnUrl: 'http://www.royvincent.org/chapter16/16_essay8.html'
 keywords:
   - geopathic
   - earth
@@ -17,23 +13,20 @@ keywords:
   - bachler
   - water
   - ley
-description: >-
-  'Listening to the silences', an Internet book, is a valuable reference for
-  anyone seeking new approaches to mental health, psychiatric nursing and
-  psychiatric treatment. It is based on experiences of hearing voices and
-  reveals how hypnosis, hypnotherapy, channelling, Reiki, using cannabis,
-  mescaline and other recreational drugs, also many mind-opening practices
-  associated with deep meditation and mind control, can lead to spiritual
-  intrusion and mental harm for vulnerable people.
-inLanguage: en
-app_links: []
-isBasedOnUrl: 'http://www.royvincent.org/chapter16/16_essay8.html'
-title: Listening to the Silences
-datePublished: '2016-09-03T03:44:03.727Z'
-dateModified: '2016-09-03T03:43:50.848Z'
+related: []
+author: []
 via: {}
+dateModified: '2016-09-03T03:45:30.856Z'
+title: 'Earth Currents: The Cause Of ‘Geopathic’ Illness '
+app_links: []
+publisher:
+  url: 'http://www.royvincent.org'
+  name: Royvincent
+  favicon: null
+  domain: www.royvincent.org
+description: 'A Short Analysis '
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-09-03-listening-to-the-silences.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -41,4 +34,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Listening to the Silences</h1><p>'Listening to the silences', an Internet book, is a valuable reference for anyone seeking new approaches to mental health, psychiatric nursing and psychiatric treatment. It is based on experiences of hearing voices and reveals how hypnosis, hypnotherapy, channelling, Reiki, using cannabis, mescaline and other recreational drugs, also many mind-opening practices associated with deep meditation and mind control, can lead to spiritual intrusion and mental harm for vulnerable people.</p><img src="http://www.royvincent.org/images/room1.jpg" /></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/514f2a7233024c9cecb9bf6588bad4a9/noop.jpg?input=http%3A%2F%2Fwww.royvincent.org%2Fimages%2Froom1.jpg" /><h1>Earth Currents: The Cause Of ‘Geopathic’ Illness </h1><p>A Short Analysis </p></article>
