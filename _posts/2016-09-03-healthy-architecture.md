@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-09-03T10:13:38.425Z'
+datePublished: '2016-09-03T10:18:58.503Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-03T10:13:14.320Z'
+dateModified: '2016-09-03T10:18:57.397Z'
 title: ''
 publisher: {}
 description: HEALTHY ARCHITECTURE
-starred: false
 sourcePath: _posts/2016-09-03-healthy-architecture.md
-_type: Blurb
+hasPage: true
+starred: false
+url: healthy-architecture/index.html
+_type: Article
 
 ---
 HEALTHY ARCHITECTURE
