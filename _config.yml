@@ -16,5 +16,9 @@ author:
   email: kirjon@gmail.com
   url: geodesignasia.com
 name: GeoDesign
+navigation:
+  - name: Healthy Architecture
+    id: 3f0a2c59-3440-4661-9023-b9f2c0b89696
+    type: content
 title: GeoDesign
 description: Designs for Exceptional Living
